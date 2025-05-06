@@ -6,7 +6,6 @@ use Concrete\Core\User\User;
 use Concrete\Core\View\View;
 use Concrete\Core\Page\Page;
 use Concrete\Core\Package\Package;
-use Concrete\Core\User\Group\Group;
 use Concrete\Core\Support\Facade\Events;
 use Concrete\Core\Package\PackageService;
 use Concrete\Core\Page\Single as SinglePage;
@@ -15,7 +14,7 @@ class Controller extends Package
 {
     protected $pkgHandle = 'msv_umami';
     protected $appVersionRequired = '8.4';
-    protected $pkgVersion = '0.75';
+    protected $pkgVersion = '1.0';
 
     public function getPackageName()
     {
