@@ -8,7 +8,7 @@ Statistics can be shared through uniquely generated URLs - great for sharing wit
 
 Umami can be self-hosted or used through the fully managed Umami Cloud.
 
-This add-on adds the required tracking scripts to your Concrete CMS site, making installation as simply and copying an ID from Umami into your Concrete site.
+This add-on adds the required tracking scripts to your Concrete CMS site, making installation as simply as copying an ID from Umami into your Concrete site.
 
 - easy installation, takes about 1 minute to set up. 
 - adds custom events for downloaded files and outbound links
